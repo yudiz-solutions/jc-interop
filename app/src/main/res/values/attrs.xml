@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomEmailValidator">
+        <attr name="label" format="string"/>
+        <attr name="android:hint"/>
+        <attr name="rightImage" format="reference"/>
+        <attr name="wrongImage" format="reference"/>
+    </declare-styleable>
+</resources>
